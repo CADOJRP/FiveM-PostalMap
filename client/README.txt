@@ -1,0 +1,1 @@
+Drag and drop the "citizen" folder into your FiveM Application Data area (Snail Icon). There should be a folder labeled the same thing and it will ask if you want to overwrite a file. Click yes.
